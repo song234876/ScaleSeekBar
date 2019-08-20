@@ -3,7 +3,7 @@
 #### 效果图
 
 <p align="center">
-	<img src="https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif" alt="Sample"  width="50%" height="50%">
+	<img src="https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif" alt="Sample"  width="35%" height="35%">
 	<p align="center">
 		<em>运行效果图</em>
 	</p>
