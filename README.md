@@ -1,7 +1,7 @@
 # ScaleSeekBar
 
 #### 介绍
-这是一个带刻度值seerkbar,支持自定义，可能设置最大、最小刻度值、初始刻度值、刻度值大小、刻度单位、刻度换算值，高度自适应，不需要设置高度，可以直接使用wrapcontent属性。
+这是一个带刻度值seerkbar,高度自适应，不需要设置高度，可以直接使用wrapcontent属性，支持自定义，可能设置最大、最小刻度值、初始刻度值、刻度值大小、刻度单位、刻度换算值，可以设置滑动监听。
 
 <p align="center">
 	<img src="https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif" alt="Sample"  width="35%" height="35%">
