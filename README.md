@@ -2,6 +2,10 @@
 
 #### 效果图
 
+运行效果
+
+!(https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif)
+
 #### 添加依赖
 步骤1 添加Jitpack仓库地址在project级的build.gradle文件中:
 ```
