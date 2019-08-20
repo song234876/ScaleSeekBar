@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     private fun initView() {
         mSpeedSb.setOnSeekChangeListener(object :ScaleSeekBar.OnSeekChangeListener{
             override fun onSeek(progress: Float) {
-                tvValue.text = "${progress}x"
+                Log.d("wss","onSeek$progress")
             }
 
             override fun OnSeekEnd(progress: Float) {
