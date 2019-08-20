@@ -2,10 +2,8 @@
 
 #### 效果图
 
-![show.gif](https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif)
-
 <p align="center">
-	<img src="https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif" alt="Sample"  width="540" height="960">
+	<img src="https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif" alt="Sample"  width="25%" height="25%">
 	<p align="center">
 		<em>运行效果图</em>
 	</p>
