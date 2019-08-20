@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScaleSeekBar">
+        <attr name="scaleTextColor" format="color" />                <!--刻度值的颜色-->
+        <attr name="scaleBgColor" format="color" />                  <!--背景刻度的颜色-->
+        <attr name="scaleFgColor" format="color" />                  <!--前景进度条的颜色-->
+        <attr name="bigScaleHeight" format="dimension" />            <!--大刻度值高度-->
+        <attr name="smallScaleHeight" format="dimension" />          <!--小刻度值高度-->
+        <attr name="unitAreaHeight" format="dimension" />            <!--单位值显示高度-->
+        <attr name="centerDistance" format="dimension" />            <!--单位值和刻度值间距高度-->
+        <attr name="defaultPadding" format="dimension" />            <!--默认间距值-->
+        <attr name="thumbWidth" format="dimension" />                <!--指示器宽度-->
+        <attr name="thumbHeight" format="dimension" />               <!--指示器高度-->
+        <attr name="firstScaleValue" format="float" />               <!--首次显示的刻度值-->
+        <attr name="maxScaleValue" format="float" />                 <!--最大刻度值-->
+        <attr name="minScaleValue" format="float" />                 <!--最小刻度值-->
+        <attr name="eachScaleValue" format="float" />                <!--每个刻度代表单位值-->
+        <attr name="limitMinValue" format="float" />                 <!--最小限制值-->
+        <attr name="limitMaxValue" format="float" />                 <!--最大限制值-->
+        <attr name="unitWeight" format="integer" />                  <!--大小刻度换算权重-->
+        <attr name="unitName" format="string" />                     <!--单位-->
+    </declare-styleable>
+</resources>
