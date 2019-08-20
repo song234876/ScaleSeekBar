@@ -1,7 +1,7 @@
 # ScaleSeekBar
 
 #### 效果图
- !(https://github.com/youyou-579/123/blob/master/2.8.jpg?raw=true)
+ !(https://upload-images.jianshu.io/upload_images/5845412-baa9682ecbb9f719.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 #### 添加依赖
 步骤1 添加Jitpack仓库地址在project级的build.gradle文件中:
