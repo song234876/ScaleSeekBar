@@ -5,14 +5,11 @@
 ![show.gif](https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif)
 
 <p align="center">
-	<img src="https://img-blog.csdn.net/20180904102458446?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xvdmVjaHJpczAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="Sample"  width="250" height="140">
+	<img src="https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif" alt="Sample"  width="540" height="960">
 	<p align="center">
-		<em>图片示例2</em>
+		<em>运行效果图</em>
 	</p>
 </p>
- ———————————————— 
-版权声明：本文为CSDN博主「伊织__」的原创文章，遵循CC 4.0 by-sa版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/lovechris00/article/details/82379382
 
 #### 添加依赖
 步骤1 添加Jitpack仓库地址在project级的build.gradle文件中:
