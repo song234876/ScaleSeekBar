@@ -1,6 +1,7 @@
 # ScaleSeekBar
 
-#### 效果图
+#### 介绍
+这是一个带刻度值seerkbar,支持自定义，可能设置最大、最小刻度值、初始刻度值、刻度值大小、刻度单位、刻度换算值，高度自适应，不需要设置高度，可以直接使用wrapcontent属性。
 
 <p align="center">
 	<img src="https://github.com/song234876/ScaleSeekBar/blob/master/preview/show.gif" alt="Sample"  width="35%" height="35%">
@@ -58,8 +59,8 @@ mSpeedSb.setOnSeekChangeListener(object :ScaleSeekBar.OnSeekChangeListener{
 
 |属性名|属性类型|含义|  
 |:--:|:--:|:--:|
-|eachScaleValue|float|每个刻度代表的间隔值|
-|firstScaleValue|float|第一次显示时的刻度值|
+|eachScaleValue|float|每个刻度代表的值|
+|firstScaleValue|float|初始刻度值|
 |limitMinValue|float|可以滑动的最小值|
 |maxScaleValue|float|最大刻度值|
 |minScaleValue|float|最小刻度值|
