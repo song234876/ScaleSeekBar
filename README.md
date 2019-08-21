@@ -1,5 +1,6 @@
 # ScaleSeekBar
 [![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg)](https://android-arsenal.com/api?level=23) 
+[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![](https://jitpack.io/v/song234876/ScaleSeekBar.svg)](https://jitpack.io/#song234876/ScaleSeekBar)
 #### 介绍
 这是一个带刻度值seerkbar,高度自适应，不需要设置高度，可以直接使用wrapcontent属性，支持自定义，可能设置最大、最小刻度值、初始刻度值、刻度值大小、刻度单位、刻度换算值，可以设置滑动监听。
