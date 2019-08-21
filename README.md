@@ -14,7 +14,7 @@
 
 #### 添加依赖
 步骤1 添加Jitpack仓库地址在project级的build.gradle文件中:
-```
+```java
 allprojects {
     repositories {
         ...
@@ -23,7 +23,7 @@ allprojects {
 }
 ```
 步骤2 添加项目依赖
-```
+```java
 dependencies {
     implementation 'com.github.song234876:ScaleSeekBar:1.0.0'
 }
@@ -31,7 +31,7 @@ dependencies {
 
 #### 使用说明
 布局文件
-```
+```kotlin
 <com.wss.library.ScaleSeekBar
             android:id="@+id/mSpeedSb"
             android:layout_width="match_parent"
@@ -45,7 +45,7 @@ dependencies {
             app:unitWeight="5" />
 ```
 设置监听
-```
+```kotlin
 mSpeedSb.setOnSeekChangeListener(object :ScaleSeekBar.OnSeekChangeListener{
             override fun onSeek(progress: Float) {
                 Log.d("wss","onSeek$progress")
