@@ -14,7 +14,7 @@
 
 #### 添加依赖
 步骤1 添加Jitpack仓库地址在project级的build.gradle文件中:
-```java
+```kotlin
 allprojects {
     repositories {
         ...
@@ -23,7 +23,7 @@ allprojects {
 }
 ```
 步骤2 添加项目依赖
-```java
+```kotlin
 dependencies {
     implementation 'com.github.song234876:ScaleSeekBar:1.0.0'
 }
